@@ -12,3 +12,7 @@ write the documentation
 cd app
 npm run fetch
 ```
+
+## Analysis
+
+The analysis folder contains some [jupyter](https://jupyter.org/) notebooks  ❤️
